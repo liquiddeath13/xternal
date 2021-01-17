@@ -1,2 +1,10 @@
 # xternal
-external radar for CrossFire RU (cfire.ru)
+внешний радар для российской локализации CrossFire от Mail.Ru (cfire.ru)
+# how it works
+инжект исключён - информация вычитывается из памяти процесса напрямую (привет, MRAC!)
+# btw
+способ, применённый для чтения информации в обход r0 callback'ов также достоверен для любой игры, защищённой MRAC'ом
+# media
+soon
+# ban prob
+no way
