@@ -1,4 +1,4 @@
-# xternal
+# xternal [patched by mail.ru for now, you need to find a way to bypass blocking for r/w]
 внешний радар для российской локализации CrossFire от Mail.Ru (cfire.ru)
 # how it works
 инжект исключён - информация вычитывается из памяти процесса напрямую (привет, MRAC!)
